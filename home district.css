@@ -1,0 +1,23 @@
+body{
+      background-color: bisque;
+    text-align: center;
+    page-container {
+  max-width: 900px; 
+  margin: 0 auto;  
+  padding: 20px; }
+  h2{
+    text-align: center;
+    color: darkblue;
+  }
+   p{
+        text-align: left;
+        font-size: 20px;
+    }   
+   }
+   
+    
+    
+image{
+    height:500px;
+    width: 200px;
+}
